@@ -8,6 +8,12 @@ module.exports = {
     `gatsby-plugin-typescript`,
     `gatsby-plugin-react-helmet`,
     {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+	pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
@@ -27,8 +33,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `aprenda.cc`,
+        short_name: `aprendaCC`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
