@@ -45,8 +45,7 @@ atingir aqueles deliciosos 60 FPS.
 vai passar um tempão esperando os resultados do seu modelo.
 
 A solução de todas essas questões passa pelas estruturas de dados. Uma estrutura
-de dados define um formato de armazenamento, gestão e organização de dados que
-permite que acesso e modificação eficientes.
+de dados define um formato de armazenamento, gestão e organização de dados permitindo que acesso e modificação de dados sejam eficientes.
 
 Não existe uma única estrutura de dados que resolva todos os casos de uso.
 Para cada padrão de acesso à informação, é necessária uma forma diferente de
